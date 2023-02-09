@@ -1,1 +1,1 @@
-# MercuVR-Svelte
+# MercuVR-Web
